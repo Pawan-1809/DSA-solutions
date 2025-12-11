@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Pawan-1809/DSA-solutions/tree/master/0010-regular-expression-matching) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
