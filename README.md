@@ -18,16 +18,22 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawan-1809/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pawan-1809/DSA-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawan-1809/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawan-1809/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
