@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Pawan-1809/DSA-solutions/tree/master/0010-regular-expression-matching) |
 | [0344-reverse-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0541-reverse-string-ii) |
 ## Math
 |  |
 | ------- |
