@@ -32,8 +32,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/Pawan-1809/DSA-solutions/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawan-1809/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Pawan-1809/DSA-solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
