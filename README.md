@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0541-reverse-string-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Pawan-1809/DSA-solutions/tree/master/0844-backspace-string-compare) |
+| [0942-di-string-match](https://github.com/Pawan-1809/DSA-solutions/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawan-1809/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0283-move-zeroes) |
+| [0942-di-string-match](https://github.com/Pawan-1809/DSA-solutions/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pawan-1809/DSA-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0541-reverse-string-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Pawan-1809/DSA-solutions/tree/master/0844-backspace-string-compare) |
+| [0942-di-string-match](https://github.com/Pawan-1809/DSA-solutions/tree/master/0942-di-string-match) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Pawan-1809/DSA-solutions/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/Pawan-1809/DSA-solutions/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
