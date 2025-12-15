@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Pawan-1809/DSA-solutions/tree/master/0844-backspace-string-compare) |
 | [1528-shuffle-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Pawan-1809/DSA-solutions/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Pawan-1809/DSA-solutions/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Pawan-1809/DSA-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
