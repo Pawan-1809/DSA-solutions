@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/Pawan-1809/DSA-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pawan-1809/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Pawan-1809/DSA-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Pawan-1809/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pawan-1809/DSA-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pawan-1809/DSA-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Pawan-1809/DSA-solutions/tree/master/0371-sum-of-two-integers) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pawan-1809/DSA-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Pawan-1809/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
