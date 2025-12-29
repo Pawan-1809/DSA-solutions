@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0942-di-string-match](https://github.com/Pawan-1809/DSA-solutions/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pawan-1809/DSA-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Pawan-1809/DSA-solutions/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Pawan-1809/DSA-solutions/tree/master/0441-arranging-coins) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pawan-1809/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -122,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0204-count-primes) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pawan-1809/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
