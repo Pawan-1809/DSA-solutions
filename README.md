@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Pawan-1809/DSA-solutions/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Pawan-1809/DSA-solutions/tree/master/0441-arranging-coins) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pawan-1809/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pawan-1809/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
