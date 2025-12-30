@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Pawan-1809/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0283-move-zeroes) |
+| [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0942-di-string-match](https://github.com/Pawan-1809/DSA-solutions/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pawan-1809/DSA-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Pawan-1809/DSA-solutions/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Pawan-1809/DSA-solutions/tree/master/0441-arranging-coins) |
+| [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pawan-1809/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -106,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Pawan-1809/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Pawan-1809/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pawan-1809/DSA-solutions/tree/master/0242-valid-anagram) |
+| [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Pawan-1809/DSA-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Pawan-1809/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
