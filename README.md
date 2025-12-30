@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Pawan-1809/DSA-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pawan-1809/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Pawan-1809/DSA-solutions/tree/master/0066-plus-one) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Pawan-1809/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Pawan-1809/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pawan-1809/DSA-solutions/tree/master/0242-valid-anagram) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0204-count-primes) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pawan-1809/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
