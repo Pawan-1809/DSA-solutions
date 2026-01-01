@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
+| [0932-beautiful-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0932-beautiful-array) |
 | [0942-di-string-match](https://github.com/Pawan-1809/DSA-solutions/tree/master/0942-di-string-match) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pawan-1809/DSA-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1528-shuffle-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/Pawan-1809/DSA-solutions/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Pawan-1809/DSA-solutions/tree/master/0441-arranging-coins) |
 | [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
+| [0932-beautiful-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0932-beautiful-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pawan-1809/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0932-beautiful-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0932-beautiful-array) |
 ## Enumeration
 |  |
 | ------- |
