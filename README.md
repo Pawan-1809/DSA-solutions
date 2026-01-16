@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Pawan-1809/DSA-solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Pawan-1809/DSA-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Pawan-1809/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Pawan-1809/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Pawan-1809/DSA-solutions/tree/master/0242-valid-anagram) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Pawan-1809/DSA-solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Pawan-1809/DSA-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pawan-1809/DSA-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0189-rotate-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Pawan-1809/DSA-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Pawan-1809/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Pawan-1809/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pawan-1809/DSA-solutions/tree/master/0242-valid-anagram) |
