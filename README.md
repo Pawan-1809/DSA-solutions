@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Pawan-1809/DSA-solutions/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/Pawan-1809/DSA-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Pawan-1809/DSA-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0119-pascals-triangle-ii) |
 ## Recursion
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Pawan-1809/DSA-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Pawan-1809/DSA-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pawan-1809/DSA-solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Pawan-1809/DSA-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Pawan-1809/DSA-solutions/tree/master/0371-sum-of-two-integers) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pawan-1809/DSA-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Pawan-1809/DSA-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pawan-1809/DSA-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
