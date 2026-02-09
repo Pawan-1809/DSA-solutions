@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/Pawan-1809/DSA-solutions/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Pawan-1809/DSA-solutions/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1528-shuffle-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Pawan-1809/DSA-solutions/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Pawan-1809/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Matrix
 |  |
 | ------- |
