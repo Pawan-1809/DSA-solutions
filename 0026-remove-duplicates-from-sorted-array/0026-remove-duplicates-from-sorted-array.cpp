@@ -1,14 +1,17 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        unordered_set<int> uq;
-        int idx=0;
-        for(auto num : nums){
-            if(uq.find(num)==uq.end()){
-                uq.insert(num);
-                nums[idx++] = num;
+        if (nums.empty()) return 0;
+
+        int i = 1;
+
+        for (int j = 1; j < nums.size(); j++) {
+            if (nums[j] != nums[i - 1]) {
+                nums[i] = nums[j];
+                i++;
             }
         }
-        return idx;
+
+        return i;   
     }
 };
