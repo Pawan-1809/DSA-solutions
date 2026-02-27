@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Pawan-1809/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Pawan-1809/DSA-solutions/tree/master/0485-max-consecutive-ones) |
 | [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0912-sort-an-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0932-beautiful-array) |
