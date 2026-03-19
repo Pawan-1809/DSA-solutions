@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Pawan-1809/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pawan-1809/DSA-solutions/tree/master/0485-max-consecutive-ones) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Pawan-1809/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pawan-1809/DSA-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Pawan-1809/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pawan-1809/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pawan-1809/DSA-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Pawan-1809/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Pawan-1809/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pawan-1809/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
