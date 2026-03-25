@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Pawan-1809/DSA-solutions/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Pawan-1809/DSA-solutions/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Pawan-1809/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -314,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Pawan-1809/DSA-solutions/tree/master/0493-reverse-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
