@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/Pawan-1809/DSA-solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Pawan-1809/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Pawan-1809/DSA-solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Pawan-1809/DSA-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pawan-1809/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0541-reverse-string-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pawan-1809/DSA-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Pawan-1809/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/Pawan-1809/DSA-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Pawan-1809/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pawan-1809/DSA-solutions/tree/master/0242-valid-anagram) |
