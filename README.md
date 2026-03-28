@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Pawan-1809/DSA-solutions/tree/master/0704-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
+| [0875-koko-eating-bananas](https://github.com/Pawan-1809/DSA-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0932-beautiful-array) |
 | [0942-di-string-match](https://github.com/Pawan-1809/DSA-solutions/tree/master/0942-di-string-match) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0493-reverse-pairs](https://github.com/Pawan-1809/DSA-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Pawan-1809/DSA-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Pawan-1809/DSA-solutions/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pawan-1809/DSA-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pawan-1809/DSA-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
