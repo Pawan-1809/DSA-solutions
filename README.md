@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pawan-1809/DSA-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Pawan-1809/DSA-solutions/tree/master/1390-four-divisors) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pawan-1809/DSA-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pawan-1809/DSA-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pawan-1809/DSA-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Pawan-1809/DSA-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pawan-1809/DSA-solutions/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pawan-1809/DSA-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pawan-1809/DSA-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pawan-1809/DSA-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
