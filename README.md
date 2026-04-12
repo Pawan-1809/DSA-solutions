@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0932-beautiful-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0932-beautiful-array) |
 | [0942-di-string-match](https://github.com/Pawan-1809/DSA-solutions/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pawan-1809/DSA-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pawan-1809/DSA-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Pawan-1809/DSA-solutions/tree/master/1390-four-divisors) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pawan-1809/DSA-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Pawan-1809/DSA-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pawan-1809/DSA-solutions/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pawan-1809/DSA-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pawan-1809/DSA-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pawan-1809/DSA-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pawan-1809/DSA-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
