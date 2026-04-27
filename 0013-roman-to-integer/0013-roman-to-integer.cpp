@@ -11,6 +11,6 @@ public:
             else
                 ans+=roman[s[i]];
         }
-        return ans+roman[s[s.size()-1]];
+        return ans+roman[s.back()];
     }
 };
