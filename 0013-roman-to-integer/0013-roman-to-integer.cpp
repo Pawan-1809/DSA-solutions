@@ -1,22 +1,16 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        unordered_map<char, int> match = {
-            {'I',1}, {'V',5}, {'X',10}, {'L',50},
-            {'C',100}, {'D',500}, {'M',1000}
+        int ans = 0;
+        unordered_map<char,int> roman{
+            {'M',1000},{'D',500},{'C',100},{'L',50},{'X',10},{'V',5},{'I',1}
         };
-        
-        int res = 0;
-        for (int i = 0; i < s.size(); ++i) {
-            int curr = match[s[i]];
-            int next = (i+1 < s.size()) ? match[s[i+1]] : 0;
-            
-            if (curr < next) {
-                res -= curr;
-            } else {
-                res += curr;
-            }
+        for(int i = 0; i< s.size()-1; i++){
+            if(roman[s[i]]<roman[s[i+1]])
+                ans-=roman[s[i]];
+            else
+                ans+=roman[s[i]];
         }
-        return res;
+        return ans+roman[s[s.size()-1]];
     }
 };
