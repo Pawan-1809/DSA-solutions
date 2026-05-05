@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0010-regular-expression-matching](https://github.com/Pawan-1809/DSA-solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Pawan-1809/DSA-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pawan-1809/DSA-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/Pawan-1809/DSA-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Pawan-1809/DSA-solutions/tree/master/0509-fibonacci-number) |
 ## Array
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Pawan-1809/DSA-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Pawan-1809/DSA-solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Pawan-1809/DSA-solutions/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Pawan-1809/DSA-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Pawan-1809/DSA-solutions/tree/master/0509-fibonacci-number) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Pawan-1809/DSA-solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Pawan-1809/DSA-solutions/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
