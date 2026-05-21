@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Pawan-1809/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pawan-1809/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawan-1809/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0189-rotate-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Pawan-1809/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pawan-1809/DSA-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Pawan-1809/DSA-solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Pawan-1809/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pawan-1809/DSA-solutions/tree/master/0242-valid-anagram) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pawan-1809/DSA-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Pawan-1809/DSA-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0912-sort-an-array) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/Pawan-1809/DSA-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Pawan-1809/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/0328-odd-even-linked-list) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Pawan-1809/DSA-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
