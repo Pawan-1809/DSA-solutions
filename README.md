@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Pawan-1809/DSA-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Pawan-1809/DSA-solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Pawan-1809/DSA-solutions/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0932-beautiful-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0932-beautiful-array) |
 | [1390-four-divisors](https://github.com/Pawan-1809/DSA-solutions/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Pawan-1809/DSA-solutions/tree/master/1922-count-good-numbers) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pawan-1809/DSA-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pawan-1809/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
