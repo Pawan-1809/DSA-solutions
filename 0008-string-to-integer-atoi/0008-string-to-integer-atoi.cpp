@@ -1,25 +1,37 @@
 class Solution {
-    int helper(string& s, int i, long long sum, int sign){
-        if(i>=s.size() || !isdigit(s[i])){
-            return (int)(sign*sum);
+    int helper(string &s, int i, int end, long long sum, int sign) {
+
+        if (i >= end || !isdigit(s[i])) {
+            return sign * sum;
         }
-        sum=sum*10 +(s[i]-'0');
 
-        if(sum*sign>=INT_MAX) return INT_MAX;
-        if(sum*sign<=INT_MIN) return INT_MIN;
+        sum = sum * 10 + (s[i] - '0');
 
-        return helper(s,i+1,sum,sign);
+        if (sign == 1 && sum > INT_MAX)
+            return INT_MAX;
+
+        if (sign == -1 && -sum < INT_MIN)
+            return INT_MIN;
+
+        return helper(s, i + 1, end, sum, sign);
     }
+
 public:
     int myAtoi(string s) {
-        int i = 0, end = s.length();
-        while (i < s.size() && s[i] == ' ') i++;
 
-        int sign=1;
-        if(i < end && (s[i] == '-' || s[i] == '+')) {
-            sign = (s[i] == '-') ? -1 : 1;
+        int i = 0, n = s.size();
+
+        while (i < n && s[i] == ' ')
+            i++;
+
+        int sign = 1;
+
+        if (i < n && (s[i] == '+' || s[i] == '-')) {
+            if (s[i] == '-')
+                sign = -1;
             i++;
         }
-        return helper(s,i,0,sign);
+
+        return helper(s, i, n, 0, sign);
     }
 };
