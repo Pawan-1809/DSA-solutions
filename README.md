@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/Pawan-1809/DSA-solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Pawan-1809/DSA-solutions/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/Pawan-1809/DSA-solutions/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pawan-1809/DSA-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Pawan-1809/DSA-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0047-permutations-ii) |
+| [0401-binary-watch](https://github.com/Pawan-1809/DSA-solutions/tree/master/0401-binary-watch) |
 ## Tree
 |  |
 | ------- |
