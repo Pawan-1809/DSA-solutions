@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Pawan-1809/DSA-solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Pawan-1809/DSA-solutions/tree/master/0724-find-pivot-index) |
 | [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/Pawan-1809/DSA-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0912-sort-an-array) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Pawan-1809/DSA-solutions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Pawan-1809/DSA-solutions/tree/master/0724-find-pivot-index) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pawan-1809/DSA-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Indexed Tree
 |  |
