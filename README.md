@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/0410-split-array-largest-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Pawan-1809/DSA-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Pawan-1809/DSA-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Pawan-1809/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pawan-1809/DSA-solutions/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Pawan-1809/DSA-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
