@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0942-di-string-match](https://github.com/Pawan-1809/DSA-solutions/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pawan-1809/DSA-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pawan-1809/DSA-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pawan-1809/DSA-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Pawan-1809/DSA-solutions/tree/master/1390-four-divisors) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Pawan-1809/DSA-solutions/tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawan-1809/DSA-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Pawan-1809/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
+| [1260-shift-2d-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pawan-1809/DSA-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/1975-maximum-matrix-sum) |
