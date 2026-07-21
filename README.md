@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Pawan-1809/DSA-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Pawan-1809/DSA-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3794-reverse-string-prefix](https://github.com/Pawan-1809/DSA-solutions/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pawan-1809/DSA-solutions/tree/master/0204-count-primes) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Pawan-1809/DSA-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
