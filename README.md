@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Pawan-1809/DSA-solutions/tree/master/0509-fibonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Pawan-1809/DSA-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1641-count-sorted-vowel-strings](https://github.com/Pawan-1809/DSA-solutions/tree/master/1641-count-sorted-vowel-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0932-beautiful-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0932-beautiful-array) |
 | [1390-four-divisors](https://github.com/Pawan-1809/DSA-solutions/tree/master/1390-four-divisors) |
+| [1641-count-sorted-vowel-strings](https://github.com/Pawan-1809/DSA-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Pawan-1809/DSA-solutions/tree/master/1922-count-good-numbers) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Pawan-1809/DSA-solutions/tree/master/0176-second-highest-salary) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/Pawan-1809/DSA-solutions/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
