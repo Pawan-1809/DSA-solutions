@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1641-count-sorted-vowel-strings](https://github.com/Pawan-1809/DSA-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Pawan-1809/DSA-solutions/tree/master/1922-count-good-numbers) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pawan-1809/DSA-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pawan-1809/DSA-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/Pawan-1809/DSA-solutions/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawan-1809/DSA-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Greedy
 |  |
 | ------- |
