@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0176-second-highest-salary](https://github.com/Pawan-1809/DSA-solutions/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Pawan-1809/DSA-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Pawan-1809/DSA-solutions/tree/master/0595-big-countries) |
+| [1683-invalid-tweets](https://github.com/Pawan-1809/DSA-solutions/tree/master/1683-invalid-tweets) |
 ## Combinatorics
 |  |
 | ------- |
