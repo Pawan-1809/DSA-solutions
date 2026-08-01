@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/Pawan-1809/DSA-solutions/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/Pawan-1809/DSA-solutions/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Pawan-1809/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Pawan-1809/DSA-solutions/tree/master/0509-fibonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Pawan-1809/DSA-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1641-count-sorted-vowel-strings](https://github.com/Pawan-1809/DSA-solutions/tree/master/1641-count-sorted-vowel-strings) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Pawan-1809/DSA-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Pawan-1809/DSA-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Pawan-1809/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Pawan-1809/DSA-solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Pawan-1809/DSA-solutions/tree/master/1922-count-good-numbers) |
 ## Array
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Pawan-1809/DSA-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Pawan-1809/DSA-solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Pawan-1809/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Pawan-1809/DSA-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Pawan-1809/DSA-solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Pawan-1809/DSA-solutions/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Pawan-1809/DSA-solutions/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/Pawan-1809/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Pawan-1809/DSA-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pawan-1809/DSA-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-reaching-points](https://github.com/Pawan-1809/DSA-solutions/tree/master/0780-reaching-points) |
@@ -482,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/Pawan-1809/DSA-solutions/tree/master/1641-count-sorted-vowel-strings) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Pawan-1809/DSA-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
