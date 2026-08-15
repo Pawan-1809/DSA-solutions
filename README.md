@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Pawan-1809/DSA-solutions/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Pawan-1809/DSA-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Pawan-1809/DSA-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Pawan-1809/DSA-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pawan-1809/DSA-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Pawan-1809/DSA-solutions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Pawan-1809/DSA-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Pawan-1809/DSA-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Pawan-1809/DSA-solutions/tree/master/0048-rotate-image) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawan-1809/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Pawan-1809/DSA-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Pawan-1809/DSA-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Pawan-1809/DSA-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Pawan-1809/DSA-solutions/tree/master/0125-valid-palindrome) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pawan-1809/DSA-solutions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pawan-1809/DSA-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pawan-1809/DSA-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Pawan-1809/DSA-solutions/tree/master/0225-implement-stack-using-queues) |
@@ -504,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/Pawan-1809/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Pawan-1809/DSA-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Pawan-1809/DSA-solutions/tree/master/1406-stone-game-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Pawan-1809/DSA-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
