@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pawan-1809/DSA-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pawan-1809/DSA-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pawan-1809/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/Pawan-1809/DSA-solutions/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
 | ------- |
