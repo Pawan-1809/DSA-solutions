@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3536-maximum-product-of-two-digits](https://github.com/Pawan-1809/DSA-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pawan-1809/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Pawan-1809/DSA-solutions/tree/master/3870-count-commas-in-range) |
+| [3945-digit-frequency-score](https://github.com/Pawan-1809/DSA-solutions/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1796-second-largest-digit-in-a-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pawan-1809/DSA-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3945-digit-frequency-score](https://github.com/Pawan-1809/DSA-solutions/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
