@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1922-count-good-numbers](https://github.com/Pawan-1809/DSA-solutions/tree/master/1922-count-good-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Pawan-1809/DSA-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pawan-1809/DSA-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pawan-1809/DSA-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pawan-1809/DSA-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
