@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pawan-1809/DSA-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pawan-1809/DSA-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [1920-build-array-from-permutation](https://github.com/Pawan-1809/DSA-solutions/tree/master/1920-build-array-from-permutation) |
 | [1975-maximum-matrix-sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawan-1809/DSA-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Pawan-1809/DSA-solutions/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/1260-shift-2d-grid) |
+| [1920-build-array-from-permutation](https://github.com/Pawan-1809/DSA-solutions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawan-1809/DSA-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Greedy
