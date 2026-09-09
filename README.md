@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1920-build-array-from-permutation](https://github.com/Pawan-1809/DSA-solutions/tree/master/1920-build-array-from-permutation) |
 | [1975-maximum-matrix-sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawan-1809/DSA-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Pawan-1809/DSA-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Pawan-1809/DSA-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pawan-1809/DSA-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pawan-1809/DSA-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pawan-1809/DSA-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pawan-1809/DSA-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawan-1809/DSA-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Pawan-1809/DSA-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3794-reverse-string-prefix](https://github.com/Pawan-1809/DSA-solutions/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/Pawan-1809/DSA-solutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Pawan-1809/DSA-solutions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawan-1809/DSA-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Pawan-1809/DSA-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Pawan-1809/DSA-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Pawan-1809/DSA-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
