@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3110-score-of-a-string](https://github.com/Pawan-1809/DSA-solutions/tree/master/3110-score-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Pawan-1809/DSA-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pawan-1809/DSA-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Pawan-1809/DSA-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Pawan-1809/DSA-solutions/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2965-find-missing-and-repeated-values](https://github.com/Pawan-1809/DSA-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pawan-1809/DSA-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3668-restore-finishing-order](https://github.com/Pawan-1809/DSA-solutions/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Pawan-1809/DSA-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Pawan-1809/DSA-solutions/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
